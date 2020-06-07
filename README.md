@@ -2,7 +2,8 @@
 
 ### Description
 Python script to plot official suicide occurrences and linearly estimate future events
-Work in progress
+
+(Work in progress)
 
 ### Execution
 1. Clone
